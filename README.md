@@ -8,6 +8,7 @@ I still write code in my spare time. That's what you'll find here.
 
 ### Projects
 
+- **[sharepoint-document-migrator](https://github.com/albertomaserati/sharepoint-document-migrator)**: CLI tool to migrate SharePoint Online document libraries via Microsoft Graph. C#, .NET 10.
 - **[tabata-timer](https://github.com/albertomaserati/tabata-timer)**: Tabata timer and gym workout plans. Kotlin, Jetpack Compose Multiplatform.
 - **[albertomaserati-next](https://github.com/albertomaserati/albertomaserati-next)**: my personal website, rebuilt from ASP.NET to Next.js and TypeScript.
 
